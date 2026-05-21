@@ -50,7 +50,7 @@ A cinematic football tactical animation editor built with Python and Pygame.
 
 ---
 
-### Working Video
+### Working Demo
 ![video](screenshots/working-video.mp4)
 
 ## Future Improvements
