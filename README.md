@@ -1,8 +1,8 @@
-# Football Tactical Animation Studio
+# ⚽🎬 Football Tactical Animation Studio
 
 A cinematic football tactical animation editor built with Python and Pygame.
 
-## Features
+##  🚀 Features
 
 - Tactical frame-by-frame sequencing
 - Cinematic player interpolation
@@ -13,7 +13,7 @@ A cinematic football tactical animation editor built with Python and Pygame.
 - Timeline-based editing
 - Realistic football choreography
 
-## Controls
+## 🎮 Controls
 
 | Key | Action |
 |---|---|
@@ -24,38 +24,44 @@ A cinematic football tactical animation editor built with Python and Pygame.
 | E | Export MP4 video |
 | Right Click Frame | Context menu |
 
-## Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - Pygame
 - ImageIO
 - NumPy
+  
 
-## Demo
+## 📸 Screenshots
 
-## Screenshots
 
-### Tactical Setup
+### ⚽ Tactical Setup
 ![Tactical Setup](screenshots/home-formation-UI.png)
 
 ---
 
-### Lofted Pass Animation
+### 🎯 Lofted Pass Animation
 ![Lofted Pass](screenshots/loft-animation-2.png)
 
 ---
 
-### Timeline Editor
+### 🧠 Timeline Editor
 ![Timeline](screenshots/timeline-editor.png)
 
 ---
 
-### Working Demo
+### 🎥 Demo Video
 ![video](screenshots/working-video.mp4)
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Save/load projects
 - Better net physics
 - Curved lofted passes
 - UI polish
+
+---
+
+# ⭐ GitHub Repository
+
+If you like the project, consider starring the repository.
