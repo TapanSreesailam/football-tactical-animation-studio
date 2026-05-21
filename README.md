@@ -33,7 +33,25 @@ A cinematic football tactical animation editor built with Python and Pygame.
 
 ## Demo
 
-(Add screenshots and exported videos here)
+## Screenshots
+
+### Tactical Setup
+![Tactical Setup](screenshots/home-formation-UI.png)
+
+---
+
+### Lofted Pass Animation
+![Lofted Pass](screenshots/loft-animation-2.png)
+
+---
+
+### Timeline Editor
+![Timeline](screenshots/timeline-editor.png)
+
+---
+
+### Working Video
+![video](working-video.mp4)
 
 ## Future Improvements
 
